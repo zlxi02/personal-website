@@ -31,5 +31,5 @@ Lives in San Francisco, CA
 
 ---
 
-*Built with a simple static site generator*
+*Built by Zach while procrastinating on other things*
 
