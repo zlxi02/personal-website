@@ -31,6 +31,17 @@ function copyAssets() {
     fs.cpSync(ASSETS_DIR, distAssetsDir, { recursive: true });
     console.log('✓ Copied assets');
   }
+  
+  // Copy public folder to dist
+  const PUBLIC_DIR = 'public';
+  if (fs.existsSync(PUBLIC_DIR)) {
+    const distPublicDir = path.join(DIST_DIR, PUBLIC_DIR);
+    if (fs.existsSync(distPublicDir)) {
+      fs.rmSync(distPublicDir, { recursive: true });
+    }
+    fs.cpSync(PUBLIC_DIR, distPublicDir, { recursive: true });
+    console.log('✓ Copied public files');
+  }
 }
 
 // Read CSS file
@@ -44,6 +55,7 @@ function htmlTemplate(content, title = '') {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${title}</title>
+  <link rel="icon" type="image/png" href="public/Screenshot 2025-11-13 at 23.29.37.png">
   <style>${styles}</style>
 </head>
 <body>
