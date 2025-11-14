@@ -108,9 +108,14 @@ li {
 #projects + ul li > a:first-child {
   font-size: 1.25rem;
   font-weight: normal;
-  display: block;
+  display: inline;
   margin-bottom: 0;
   line-height: 1.3;
+}
+
+/* All links in project list items should be same size */
+#projects + ul li a {
+  font-size: 1.25rem;
 }
 
 /* Hide the br tag spacing in list items */
