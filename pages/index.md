@@ -1,6 +1,6 @@
 # Zachary Xi
 
-Hi! I'm Zach. I make things that people (sometimes) want
+Hi, I'm Zach! I make things that people (sometimes) want
 
 ---
 
