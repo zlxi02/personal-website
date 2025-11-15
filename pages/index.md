@@ -16,7 +16,7 @@ Lives in San Francisco, CA
   *Nov 2025 — Fully local STT, LLM, TTS voice agent*
 - [PyTorch Intent Classifier](https://github.com/zlxi02/pytorch-intent-classifier) | [<u>demo</u>](https://www.linkedin.com/feed/update/urn:li:activity:7394174114569150465/)  
   *Nov 2025 — A lightweight 2-layer FFN classifier to route user queries to tools*
-- [LlamaBall](https://github.com/zlxi02/llamaball) | [<u>play</u>](https://llamaball.vercel.app/)  
+- [LlamaBall](https://github.com/zlxi02/llamaball) | [<u>play!</u>](https://llamaball.vercel.app/)  
   *Nov 2025 — Llamas! Fullstack game hosted on Vercel and Firebase*
 
 ## Writing
