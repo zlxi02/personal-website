@@ -31,5 +31,5 @@ Lives in San Francisco, CA
 
 ---
 
-*Built by Zach while procrastinating on other things*
+*Built by Zach while he should have been working on other things*
 
