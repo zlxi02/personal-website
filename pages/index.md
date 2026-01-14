@@ -6,7 +6,7 @@ Hi, I'm Zach! I make things that people (sometimes) want
 
 Product Manager at [Salesforce](https://www.salesforce.com/agentforce/)
 
-Previously: Founder of [Enflux](https://www.enflux.ai/), ML Research at [Stanford](https://hci.stanford.edu/)
+Previously: Founder of [Enflux], ML Research at [Stanford](https://hci.stanford.edu/)
 
 Lives in San Francisco, CA
 
