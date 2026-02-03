@@ -21,7 +21,10 @@ Lives in San Francisco, CA
 
 ## Writing
 
-*Coming soon! Once I have time and thoughts...*
+- [four years, six months, or nine days](writing/four-years-six-months-or-nine-days.html)  
+  *Mar 2025 — a poem*
+- [元宵 2/12](writing/yuanxiao-2-12.html)  
+  *Feb 2025 — a shorter poem*
 
 ## Contact
 
@@ -31,5 +34,5 @@ Lives in San Francisco, CA
 
 ---
 
-*Built by Zach while he should have been working on other things*
+*Built in a baby-blue coffee shop on a sunny weekend in Hayes Valley*
 

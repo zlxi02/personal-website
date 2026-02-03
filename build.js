@@ -55,7 +55,7 @@ function htmlTemplate(content, title = '') {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${title}</title>
-  <link rel="icon" type="image/png" href="public/Screenshot 2025-11-13 at 23.29.37.png">
+  <link rel="icon" type="image/png" href="/public/Screenshot 2025-11-13 at 23.29.37.png">
   <style>${styles}</style>
 </head>
 <body>
