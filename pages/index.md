@@ -14,6 +14,8 @@ Lives in San Francisco, CA
 
 - [Kest](https://kest.ai/)  
   *Jan 2026 — AI-powered flight search tool*
+- [Engram](https://github.com/zlxi02/engram)  
+  *Mar 2026 — Episodic memory for Claude Code*
 - [Inference Observatory](https://github.com/zlxi02/inference-cost-attribution)  
   *Mar 2026 — Observability platform that tracks inference costs across vLLM / OpenAI deployments*
 - [Bestie Voice Agent](https://github.com/zlxi02/bestie-voice-agent) | [<u>demo</u>](https://www.linkedin.com/feed/update/urn:li:activity:7392359025348292608/)  
